@@ -16,3 +16,5 @@ D:\Windata\Source\dotnetcore-gitlab-hook\DotnetCoreGitlabHook\DotnetCoreGitlabHo
 D:\Windata\Source\dotnetcore-gitlab-hook\DotnetCoreGitlabHook\DotnetCoreGitlabHook\obj\Debug\netcoreapp3.0\DotnetCoreGitlabHook.RazorTargetAssemblyInfo.cache
 D:\Windata\Source\dotnetcore-gitlab-hook\DotnetCoreGitlabHook\DotnetCoreGitlabHook\obj\Debug\netcoreapp3.0\DotnetCoreGitlabHook.dll
 D:\Windata\Source\dotnetcore-gitlab-hook\DotnetCoreGitlabHook\DotnetCoreGitlabHook\obj\Debug\netcoreapp3.0\DotnetCoreGitlabHook.pdb
+D:\Windata\Source\dotnetcore-gitlab-hook\DotnetCoreGitlabHook\DotnetCoreGitlabHook\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Windata\Source\dotnetcore-gitlab-hook\DotnetCoreGitlabHook\DotnetCoreGitlabHook\obj\Debug\netcoreapp3.0\DotnetCoreGitlabHook.csproj.CopyComplete
